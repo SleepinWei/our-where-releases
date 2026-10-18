@@ -8,13 +8,17 @@ This repository contains release information and installation packages only. The
 
 [Download the latest APK](https://github.com/SleepinWei/our-where-releases/releases/latest/download/OurWhere.apk)
 
+Current Android beta: **1.6.1 (12)**. [Release notes and checksum](https://github.com/SleepinWei/our-where-releases/releases/tag/v1.6.1-beta).
+
 Open **Settings → Check for updates** in the app to check for a newer package. Download the APK and confirm installation in Android. Keep the existing app installed so Android can update it in place and retain its local settings.
 
 These packages use the existing beta test signing certificate. They are not a Google Play production release.
 
 ## iOS
 
-An iOS distribution link is not available yet. iOS package updates will use TestFlight or the App Store.
+[Join Our Where on TestFlight](https://testflight.apple.com/join/T3RZgGg7)
+
+Current TestFlight build: **1.0 (13)**. Install or update using the TestFlight app. This is beta distribution; the App Store submission is still awaiting review.
 
 ## 中文
 
@@ -22,4 +26,4 @@ An iOS distribution link is not available yet. iOS package updates will use Test
 
 安卓用户可以在 App 的「设置 → 检查更新」中查看新版本，下载 APK 后由系统确认覆盖安装。请保留原 App，无需卸载。
 
-当前提供 beta 测试安装包；iOS 的 TestFlight / App Store 分发入口尚未发布。
+Android beta 1.6.1 (12) is available above. iOS TestFlight 1.0 (13): https://testflight.apple.com/join/T3RZgGg7 . App Store review remains pending.
